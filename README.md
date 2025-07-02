@@ -1,2 +1,2 @@
-# tietgenie
+# thaparAssisst
 Chatbot 
